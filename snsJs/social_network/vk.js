@@ -11,7 +11,7 @@ function SnsVK(){
 		}, '5.29'); 
 	};
 	this.getUserInfo =	function (){
-		VK.Api.call(
+		VK.api(
 			'users.get', 
 			{fields: 'first_name,last_name,photo_50,uid'}, 	
 			function(r) { 
@@ -29,7 +29,7 @@ function SnsVK(){
 	};
 		
 	this.getFriendsSids = function (){
-		VK.Api.call(
+		VK.api(
 			'friends.getAppUsers', 
 			{}, 	
 			function(r) { 
