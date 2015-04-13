@@ -1,0 +1,11 @@
+C:\Users\PC 2\Documents\SNS_JS_demo\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\PC 2\Documents\SNS_JS_demo\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\PC 2\Documents\SNS_JS_demo\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\PC 2\Documents\SNS_JS_demo\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\PC 2\Documents\SNS_JS_demo\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\PC 2\Documents\SNS_JS_demo\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\PC 2\Documents\SNS_JS_demo\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\PC 2\Documents\SNS_JS_demo\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\PC 2\Documents\SNS_JS_demo\obj\Debug\UnityVS.SNS_JS_demo.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\PC 2\Documents\SNS_JS_demo\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\PC 2\Documents\SNS_JS_demo\obj\Debug\Assembly-CSharp-firstpass.pdb
